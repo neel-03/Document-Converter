@@ -34,6 +34,8 @@ This project is a simple web application that allows users to convert data betwe
 ![Uploading valid CSV file](https://github.com/neel-03/Document-Converter/assets/96440861/d8c66c59-e8d8-431e-b6b2-65a053e50727)
 ![JSON to CSV output](https://github.com/neel-03/Document-Converter/assets/96440861/5d3e405c-56a6-4144-b2c4-f2e4c9bb7c2b)
 ![CSV to JSON output](https://github.com/neel-03/Document-Converter/assets/96440861/3a071eda-07d5-4065-9532-b35179b360cb)
+![Azure serverless function](https://github.com/neel-03/Document-Converter/assets/96440861/97943e43-b8b9-4882-836c-4d1b14ef61d2)
+![Trigger on HTTP-POST request](https://github.com/neel-03/Document-Converter/assets/96440861/a803dfe8-14d0-44f0-b901-d133c53e0ee6)
 
 
 ## Usage
